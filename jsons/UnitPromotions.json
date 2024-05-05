@@ -1,12 +1,14 @@
 [
         {
                 "name": "Commander I",
+                "unitTypes": ["Aircraft Carrier"],
                 "uniques": ["Comment [The strength of the aircraft on this ship increases 33%]"],
                 "column": 27,
                 "row": 1
         },
         {
                 "name": "Commander II",
+                "unitTypes": ["Aircraft Carrier"],
                 "uniques": ["Comment [The strength of the aircraft on this ship increases 33%]"],
                 "prerequisites": ["Commander I"],
                 "column": 27,
@@ -14,6 +16,7 @@
         },
         {
                 "name": "Commander III",
+                "unitTypes": ["Aircraft Carrier"],
                 "uniques": ["Comment [The strength of the aircraft on this ship increases 34%]"],
                 "prerequisites": ["Commander II"],
                 "column": 27,
